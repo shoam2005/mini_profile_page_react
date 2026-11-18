@@ -1,0 +1,27 @@
+.card{
+  border:1px,solid,black;
+  padding:20px;
+  width: 80%;
+  height: 100%;
+  margin: 30px ;
+  text-shadow: cadetblue;
+
+}
+.name{
+    font-weight: bold;
+
+}
+.description{
+    color:gray
+}
+.avatar{
+    border:2px,solid,black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding:20px;
+    margin: auto;
+    font-size: 30px;
+    font-weight: bolder;
+    align-content: center;
+}

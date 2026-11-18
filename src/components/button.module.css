@@ -1,0 +1,26 @@
+.base{
+    background-color: gray;
+    border-radius: 10px;
+}
+.Student{
+    background-color: purple;
+    border-radius: 10px;
+}
+.Teacher{
+background-color: blue;
+    border-radius: 10px;
+}
+.Friend{
+    background-color: green;
+    border-radius: 10px;
+}
+.Student:hover{
+    background-color: gray;
+}
+.Teacher:hover{
+    background-color: gray;
+}
+.Friend:hover{
+    background-color: gray;
+    outline-color: gray;
+}
